@@ -1,9 +1,6 @@
 Hi 👋 My name is Brian SU
 =========================
 
-Software Developer
-------------------
-
 * 🌍  I'm based in Sydney, Australia
 * ✉️  You can contact me at [briansu.work@gmail.com](mailto:briansu.work@gmail.com)
 
