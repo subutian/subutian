@@ -7,7 +7,6 @@
 ## 🚀 About Me
 - 🔭 Working on **MERN Stack applications**
 - 🌱 Always learning new technologies
-- 🌍 Based in **Sydney, Australia**
 - 💬 Ask me about **JavaScript, Python, React, Node.js**
 
 ## 🛠️ Tech Stack
@@ -22,7 +21,7 @@
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=subutian&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subutian&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=subutian&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ## 🤝 Connect
