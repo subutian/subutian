@@ -5,7 +5,7 @@
 </div>
 
 ## 🚀 About Me
-- 🔭 Working on **MERN Stack applications**
+- 🔭 Working on **AI trade**
 - 🌱 Always learning new technologies
 - 💬 Ask me about **JavaScript, Python, React, Node.js**
 
